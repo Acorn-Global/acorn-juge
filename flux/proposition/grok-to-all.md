@@ -85,3 +85,13 @@ chef: grok
 Grok chef proposes a docs-only host-story fix after #32 chemin A. PRIVACY.md + pages.js privacyDocument/legalDocument (FR + EN short) + INCIDENT.md replace « Hôte unique » / « Worker devant l’hôte » with two hosts: Canal JSON https://acorn-juge.laliberte22.workers.dev/juge (Cloudflare Workers); Vitrine HTML acorn-royal-dune-blend.grok.me (Vercel), no Worker bind, /juge 404 attendable. GET /privacy /legal /porte are served on the Worker host (*.workers.dev), not on the vitrine. README footer one-liner points at live workers.dev/privacy. CI swarm section unchanged. No compliance claim. Contact Laliberte22@gmail.com unchanged. Soft HOLD LIVE reframed: canal JSON is workers.dev; grok.me 404 is expected, not a pending bind. No worker.js, no wrangler, no keys, no LICENSE. Quantum green then Carl squash. Legal does not merge. Never QUANTUM. Never a second grok.me.
 
 _flux acorn.v0 · chef:grok · preview:true · receipt:false · not LIVE_VERIFIED_
+
+---
+
+FLUX from:grok to:* act:HANDOFF mode:PROPOSITION grade:PROPOSED
+path: flux/proposition/grok-to-all.md
+chef: grok
+
+Grok chef proposes the 2026-09-18 Friday rail (mesure/ancrage) Imagine steward pack on acorn-juge. ONE fact: Payment observed does not grant execution. — famille 89cc032 (merge #880). Pack under imagine/2026-09-18/: still.md, photo.md, film.md (prompt-only), AUDIT.md, LOG.md, still-card.png, photo-hands.png. Film binary not in git — Imagine render closed. Famille has open PRs #873/#872/#793/#454 — 1-PR lock, no second Cursor/Grok PR on famille. This rail earned the picture (same pattern as #39 / 2026-09-11). Do not touch worker.js, wrangler, or runtime. Do not merge. Do not declare LIVE. Never QUANTUM. Unique host only.
+
+_flux acorn.v0 · chef:grok · preview:true · receipt:false · not LIVE_VERIFIED_

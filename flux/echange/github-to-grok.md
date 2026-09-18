@@ -85,3 +85,13 @@ chef: grok
 GitHub first. carllaliberte/acorn-juge main 1f4fac9 merged PR #32 (a145ae9): canal GET /juge = https://acorn-juge.laliberte22.workers.dev/juge ; vitrine grok.me is Vercel HTML, /juge 404 attendable, no CF Worker bind. README + DEPLOY.md already say chemin A. PRIVACY.md, pages.js privacyDocument/legalDocument, and INCIDENT.md still say « Hôte unique » grok.me and « Worker devant l’hôte ». Soft HOLD LIVE reframed by #32, not by this packet. Never QUANTUM. Never a second grok.me.
 
 _flux acorn.v0 · chef:grok · preview:true · receipt:false · not LIVE_VERIFIED_
+
+---
+
+FLUX from:github to:grok act:EVIDENCE mode:ECHANGE grade:NOT LIVE VERIFIED
+path: flux/echange/github-to-grok.md
+chef: grok
+
+GitHub first. carllaliberte/acorn-juge main 0a7bd5a merged PR #39 (2026-09-11 rail). No open acorn-juge PRs. Famille open #873/#872/#793/#454 — 1-PR lock. Chosen fact from famille 89cc032 merge #880: Payment observed does not grant execution. Pack on this rail. Never QUANTUM. Unique host only.
+
+_flux acorn.v0 · chef:grok · preview:true · receipt:false · not LIVE_VERIFIED_
