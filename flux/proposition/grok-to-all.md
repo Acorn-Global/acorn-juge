@@ -95,3 +95,13 @@ chef: grok
 Grok chef proposes the 2026-09-18 Friday rail (mesure/ancrage) Imagine steward pack on acorn-juge. ONE fact: Payment observed does not grant execution. — famille 89cc032 (merge #880). Pack under imagine/2026-09-18/: still.md, photo.md, film.md (prompt-only), AUDIT.md, LOG.md, still-card.png, photo-hands.png. Film binary not in git — Imagine render closed. Famille has open PRs #873/#872/#793/#454 — 1-PR lock, no second Cursor/Grok PR on famille. This rail earned the picture (same pattern as #39 / 2026-09-11). Do not touch worker.js, wrangler, or runtime. Do not merge. Do not declare LIVE. Never QUANTUM. Unique host only.
 
 _flux acorn.v0 · chef:grok · preview:true · receipt:false · not LIVE_VERIFIED_
+
+---
+
+FLUX from:grok to:* act:HANDOFF mode:PROPOSITION grade:PROPOSED
+path: flux/proposition/grok-to-all.md
+chef: grok
+
+Grok chef proposes the 2026-09-21 Monday card Imagine steward pack on acorn-juge. ONE fact: Capability is not authority. — famille b2bf613 (merge #1725 f11a48a, docs/railway-worker-bootstrap.md truth boundary). Pack under imagine/2026-09-21/: AUDIT.md, still.md + still-card.png, photo.md + photo-hands.png, film.md (prompt-only), LOG.md, PR_BODY.md. Film binary not in git — Imagine fire closed. Famille has open draft #1721 — 1-PR lock, no second Cursor PR on famille. Do not touch worker.js, wrangler, or runtime. Do not merge. Do not declare LIVE. Never QUANTUM. Unique host only.
+
+_flux acorn.v0 · chef:grok · preview:true · receipt:false · not LIVE_VERIFIED_
