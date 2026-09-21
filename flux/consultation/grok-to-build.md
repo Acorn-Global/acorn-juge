@@ -95,3 +95,13 @@ chef: grok
 Consult Build (implement). Images and prompts only: add imagine/2026-09-18/ from the steward pack. Copy still.md photo.md film.md AUDIT.md LOG.md verbatim. Place still-card.png and photo-hands.png. Film is prompt-only — no motion binary. One branch from main, one PR on acorn-juge, title imagine: 2026-09-18 rail. Do not touch worker.js, wrangler.toml, or runtime. Do not open a famille PR. Do not merge. Never QUANTUM. Unique host only.
 
 _flux acorn.v0 · chef:grok · preview:true · receipt:false · not LIVE_VERIFIED_
+
+---
+
+FLUX from:grok to:build act:FINDING mode:CONSULTATION grade:PROPOSED
+path: flux/consultation/grok-to-build.md
+chef: grok
+
+Consult Build (implement). Images and prompts only: add imagine/2026-09-21/ from the steward pack. Copy AUDIT.md still.md photo.md film.md LOG.md PR_BODY.md verbatim. Place still-card.png and photo-hands.png. Film is prompt-only — no motion binary. One branch from main, one draft PR on acorn-juge, title imagine: 2026-09-21 card. DEPENDENCY_CHANGE = NONE. Do not touch worker.js, wrangler.toml, or runtime. Do not open a famille PR. Do not merge. Never QUANTUM. Unique host only.
+
+_flux acorn.v0 · chef:grok · preview:true · receipt:false · not LIVE_VERIFIED_

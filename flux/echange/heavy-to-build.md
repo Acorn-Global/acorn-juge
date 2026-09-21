@@ -95,3 +95,13 @@ chef: grok
 Exchange. Reason then implement the Friday rail pack on acorn-juge, not famille. Payment observed does not grant execution. Film prompt-only. No Worker patch. Never QUANTUM. Unique host only.
 
 _flux acorn.v0 · chef:grok · preview:true · receipt:false · not LIVE_VERIFIED_
+
+---
+
+FLUX from:heavy to:build act:HANDOFF mode:ECHANGE grade:PROPOSED
+path: flux/echange/heavy-to-build.md
+chef: grok
+
+Exchange. Reason then implement the Monday card pack on acorn-juge, not famille. Capability is not authority. Film prompt-only. No Worker patch. Never QUANTUM. Unique host only.
+
+_flux acorn.v0 · chef:grok · preview:true · receipt:false · not LIVE_VERIFIED_
